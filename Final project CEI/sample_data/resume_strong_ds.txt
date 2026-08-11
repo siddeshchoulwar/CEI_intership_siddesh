@@ -1,0 +1,19 @@
+Priya Sharma
+priya.sharma@example.com | 9876543210
+
+SUMMARY
+Data Scientist with 3 years of experience building machine learning and deep learning
+models for customer analytics.
+
+SKILLS
+Python, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Machine Learning,
+Deep Learning, NLP, Statistics, AWS, Docker, Tableau
+
+EXPERIENCE
+Data Scientist, ABC Analytics (2022 - Present)
+- Built classification models for churn prediction using scikit-learn and TensorFlow
+- 3 years of experience in end-to-end ML pipelines, from data cleaning to deployment
+- Deployed models on AWS using Docker containers
+
+EDUCATION
+B.Tech in Computer Science, XYZ University

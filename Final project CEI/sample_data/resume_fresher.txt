@@ -1,0 +1,11 @@
+Rahul Verma
+rahul.verma@example.com | 9123456780
+
+SUMMARY
+Final year student interested in software development.
+
+SKILLS
+Python, HTML, CSS, Git
+
+EDUCATION
+B.Sc in Computer Science, ABC College
